@@ -1,0 +1,12 @@
+{
+    "name": "danajr/kkiapay",
+    "authors": [
+        {
+            "name": "iamdanajr",
+            "email": "mamoudouds@yahoo.com"
+        }
+    ],
+    "require": {
+        "kkiapay/kkiapay-php": "dev-master"
+    }
+}
